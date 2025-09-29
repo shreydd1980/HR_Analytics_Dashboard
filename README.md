@@ -29,8 +29,8 @@ Throughout this project, the following skills were applied:
 
 ## Dataset
 The dataset used in this project includes two Excel files:
-- `Hr-analytics-data.xlsx`
-- `Hr-employee-data.xlsx`
+- `HR_Analytics_Data.csv`
+- `HR_Employee_Data.csv`
 
 These files contain employee demographics, performance metrics, satisfaction levels, and other HR-related data.
 
@@ -64,7 +64,7 @@ Interactive dashboards are created in Power BI to present the analysis in a visu
 
 Users can interact with the dashboard to filter and view specific insights.
 
-The original Power BI file, `Hr-analytics.pbix`, is included in this repository for direct download and exploration.
+The original Power BI file, `HR_Analytics.pbix`, is included in this repository for direct download and exploration.
 
 ## Insights
 The project highlights key findings regarding employee satisfaction, performance trends, and attrition risks. These insights can help HR teams make informed decisions to improve workforce management and business outcomes.
